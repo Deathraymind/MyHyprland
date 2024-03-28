@@ -10,3 +10,5 @@ cd ~/Hyprdots/Scripts
 now you sould be in hyprland. To get the package list of my device i regularly update package_list.txt with the apps I use, download it and run this command. 
 
 sudo pacman -S --needed - < package_list.txt
+
+yay -S --needed - < yay_packages.txt
